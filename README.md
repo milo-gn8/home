@@ -9,6 +9,8 @@ Tech enthusiast - signal over noise
 * [Post‐Quantum Cryptography (PQC) and Bitcoin](https://yakihonne.com/article/naddr1qvzqqqr4gupzpyrraa4eymelf5xndvxcwxvvs8p7qxluxy0zvrk9rxmlat73axsfqq24xnfk8pd8zj3c2ffxjnt0garxj3rrvdt5gve6a5u) <br >
 * [MkDocs on macOS - Simple documentation with open-source software](https://yakihonne.com/naddr1qvzqqqr4gupzpyrraa4eymelf5xndvxcwxvvs8p7qxluxy0zvrk9rxmlat73axsfqq24j3mp8p2957zlx3pyjnj0xde4vamwtyc4jaq6zae) <br >
 
+* [Self-hosted NIP-05 as a Lightning Zap Address for Nostr](https://primal.net/avren/wTvt6nMSaN82-fwUmwKCn) <br >
+
 <details>
 <summary>disclaimer</summary>
 This content was created by the author based on independent research and reflects the author's current understanding at the time of writing.
