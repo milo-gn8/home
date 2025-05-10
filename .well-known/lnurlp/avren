@@ -1,0 +1,9 @@
+{
+  "status": "OK",
+  "callback": "https://zeuspay.com/.well-known/lnurlp/avren",
+  "tag": "payRequest",
+  "metadata": "[[\"text/plain\", \"Zap to avren@avren.tech\"]]",
+  "minSendable": 1000,
+  "maxSendable": 100000000,
+  "commentAllowed": 120
+}
