@@ -3,13 +3,8 @@
 Tech enthusiast - signal over noise
 [Nostr](https://primal.net/p/npub1jp3776ujdul56rfkkrv8rxxgrslqr07rz83xpmz3ndl74lg7ngys320eg2) <br >
 
-# article
-* [The Unique Properties of Bitcoin: What Makes It Revolutionary](https://yakihonne.com/naddr1qvzqqqr4gupzpyrraa4eymelf5xndvxcwxvvs8p7qxluxy0zvrk9rxmlat73axsfqq25j6mvx3u4qaztdfa9w6zjderxxtte2d8y7a9a8qn) <br >
-* [Block-Based TOTP for Secure Passphrase Validation in Bitcoin Wallets](https://yakihonne.com/naddr1qvzqqqr4gupzpyrraa4eymelf5xndvxcwxvvs8p7qxluxy0zvrk9rxmlat73axsfqq24xstr95kj6aj8x4yrzujnfg6xzm6cvan569kuhxk) <br >
-* [Post‐Quantum Cryptography (PQC) and Bitcoin](https://yakihonne.com/article/naddr1qvzqqqr4gupzpyrraa4eymelf5xndvxcwxvvs8p7qxluxy0zvrk9rxmlat73axsfqq24xnfk8pd8zj3c2ffxjnt0garxj3rrvdt5gve6a5u) <br >
-* [MkDocs on macOS - Simple documentation with open-source software](https://yakihonne.com/naddr1qvzqqqr4gupzpyrraa4eymelf5xndvxcwxvvs8p7qxluxy0zvrk9rxmlat73axsfqq24j3mp8p2957zlx3pyjnj0xde4vamwtyc4jaq6zae) <br >
-
-* [Self-hosted NIP-05 as a Lightning Zap Address for Nostr](https://primal.net/avren/wTvt6nMSaN82-fwUmwKCn) <br >
+#wiki
+[article](https://github.com/avren-tech/home/wiki) <br >
 
 <details>
 <summary>disclaimer</summary>
