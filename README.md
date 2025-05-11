@@ -3,7 +3,7 @@
 Tech enthusiast - signal over noise
 [Nostr](https://primal.net/p/npub1jp3776ujdul56rfkkrv8rxxgrslqr07rz83xpmz3ndl74lg7ngys320eg2) <br >
 
-#wiki
+# wiki
 [article](https://github.com/avren-tech/home/wiki) <br >
 
 <details>
