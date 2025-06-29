@@ -1,6 +1,6 @@
 {
   "callback": "https://zeuspay.com/api/lnurl/pay/avren",
-  "metadata": "[[\"text/plain\",\"Self-custodial LN address powered by ZEUS. Hodl invoice will settle when user comes online within 24hrs or you'll be refunded.\"],[\"text/identifier\",\"avren@zeuspay.com\"]]",
+  "metadata": "[[\"text/plain\",\"Self-custodial LN address powered by ZEUS. Hodl invoice will settle when user comes online within 24hrs or you'll be refunded.\"],[\"text/identifier\",\"gracefulelephant38@zeuspay.com/"]]",
   "tag": "payRequest",
   "minSendable": 1000,
   "maxSendable": 612000000000,
