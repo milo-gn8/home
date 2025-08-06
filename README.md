@@ -19,7 +19,7 @@ My interests include:
 ---
 
 ## 📌 Project
-👉 *[article in wiki](https://github.com/gn8.dev/home/wiki) 
+👉 [article in wiki](https://github.com/gn8.dev/home/wiki) 
 
 > ⚠️ This repo currently serves as a landing page. More content will follow…
 
