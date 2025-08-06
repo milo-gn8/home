@@ -2,7 +2,7 @@
 
 # 🌐 gn8dev/home
 
-Welcome to **gn8dev's** personal GitHub landing page — your entry point into a decentralized world of Nostr, digital sovereignty, privacy tech, and open tools.
+Welcome to **gn8dev's** personal GitHub landing page
 
 ---
 
