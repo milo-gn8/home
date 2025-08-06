@@ -1,4 +1,4 @@
-<img src="picture/3C0A1925-4F9D-491D-9FE5-9D0F339DE942.jpeg" /> <br />
+<img src="picture/banner.jpeg" /> <br />
 
 # 🌐 gn8dev/home
 
