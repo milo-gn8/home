@@ -1,4 +1,4 @@
-<img src="picture/img_0674.jpeg" /> <br />
+<img src="picture/IMG_0674.jpeg" /> <br />
 
 # 🌐 avren/home
 
