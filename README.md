@@ -1,8 +1,8 @@
-<img src="picture/banner.jpeg" /> <br />
+<img src="picture/img_0674.jpeg" /> <br />
 
-# 🌐 gn8dev/home
+# 🌐 avren/home
 
-Welcome to **gn8dev's** personal GitHub landing page
+Welcome to **avren's** personal GitHub landing page
 
 ---
 
@@ -19,7 +19,7 @@ My interests include:
 ---
 
 ## 📌 Project
-👉 [article in wiki](https://github.com/gn8.dev/home/wiki) 
+👉 [article in wiki](https://github.com/avren-tech/home/wiki) 
 
 > ⚠️ This repo currently serves as a landing page. More content will follow…
 
