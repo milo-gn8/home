@@ -1,8 +1,8 @@
 <img src="picture/IMG_0674.jpeg" /> <br />
 
-# 🌐 avren/home
+# 🌐 milo/home
 
-Welcome to **avren's** personal GitHub landing page
+Welcome to **milo's** personal GitHub landing page
 
 ---
 
